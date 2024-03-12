@@ -83,8 +83,10 @@ Java, Kotlin, Python, XML, Jetpack Compose, Firebase, Git, GitHub, API REST, Mat
 
 <ul>
 
-- <img src="https://i.pinimg.com/736x/25/c8/28/25c8286a8dcb892a6a5a30245c56787a.jpg" width ="30"><b> email: richcalvache@hotmail.com</b>
-- <img src="https://i.pinimg.com/736x/25/c8/28/25c8286a8dcb892a6a5a30245c56787a.jpg" width ="30"><b> LinkedIn: linkedin.com/in/richard-calvache</b>
+- <img src="https://i.pinimg.com/736x/25/c8/28/25c8286a8dcb892a6a5a30245c56787a.jpg" width ="30"><b> email: 	richcalvache@hotmail.com</b>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width ="30"><b> LinkedIn:  www.linkedin.com/in/richard-calvache</b>
+- <img src="https://seeklogo.com/images/W/whatsapp-logo-112413FAA7-seeklogo.com.png" width ="30"><b> phone: 	+57 3128599810</b>
+- <img src="https://seeklogo.com/images/W/whatsapp-icon-logo-6E793ACECD-seeklogo.com.png" width ="30"><b> Whatsapp: 	+57 3128599810  www.wa.me/3128599810</b>
 
 	
 </ul>
@@ -95,21 +97,3 @@ Java, Kotlin, Python, XML, Jetpack Compose, Firebase, Git, GitHub, API REST, Mat
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
