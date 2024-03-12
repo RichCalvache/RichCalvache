@@ -35,8 +35,24 @@
 MARGLO is a Android application for auditory rehabilitation in older adults. This project consists of 16 activities designed for training auditory skills, aiming to enhance adherence to devices such as hearing aids and cochlear implants.
 <br>   
 
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/6354108c-7c7a-43cb-ac72-fa27f362d6ea" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/679005ef-7a36-4924-8681-73a60d73cacb" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/e482095d-458e-4fe0-948e-c1e6ad7958c1" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/16d422e2-1585-4f88-ba8d-94eb7259429b" width = 200px></picture>
+
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/07ba51ea-afcc-4d7c-a45d-bda86536f740" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/908df4d5-1897-4f3f-9ef5-5eab56d908c7" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/537f9cb9-6eb5-4104-9970-3b6c91caa534" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/60bff0e8-64dc-4edd-8c48-14e31baafd10" width = 200px></picture>
+
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/a1269f1a-1532-4cf0-847e-ffbaf3877ff2" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/6f586435-6484-47c6-a26f-1cd8153a9248" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/b8db5946-798a-4c00-978d-55ad8d7d5bdc" width = 200px></picture>
+<picture> <img src="https://github.com/RichCalvache/RichCalvache/assets/76924421/3422a4d4-d920-42ed-aef9-9af232feb48f" width = 200px></picture>
+
 
 <br>
+
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></picture>
 </p>
@@ -57,7 +73,8 @@ Java, Kotlin, Python, XML, Jetpack Compose, Firebase, Git, GitHub, API REST, Mat
 <br>
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></picture>
-</p>
+
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"><b> Github Stats </b>
